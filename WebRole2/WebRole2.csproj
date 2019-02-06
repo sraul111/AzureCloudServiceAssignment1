@@ -120,6 +120,7 @@
     <Compile Include="CastleWindsor\DependencyScope.cs" />
     <Compile Include="CastleWindsor\WebApiInstaller.cs" />
     <Compile Include="Controllers\StudentController.cs" />
+    <Compile Include="DTOs\StudentDTO.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
